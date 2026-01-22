@@ -1,13 +1,11 @@
 # testabc
 
+1111
 
 
-adfasdfasdfa1111
-
-asdfasdf1111
-11111
-2342432aaaa111
-11111111111111111111111
+1111
+1
+111
 
 ## 禁止 push 到 GitHub（本机策略）
 
