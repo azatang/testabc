@@ -1,7 +1,7 @@
 # testabc
 1111
 
-
+111
 ## 禁止 push 到 GitHub（本机策略）
 
 安装（设置全局 pre-push hook，拦截远程地址包含 `github.com` 的 push）：
